@@ -1,0 +1,10 @@
+{
+  "description": "Provides thorough end-to-end prompt analysis and strategic planning to deliver accurate, reliable results for users seeking precise outcomes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
